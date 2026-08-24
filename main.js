@@ -73,4 +73,4 @@ addBtn.addEventListener("mouseup",() => {
 addBtn.onclick = () => {
     addButtonElement();
 }
-document.body.appendChild(addBtn)
+document.body.appendChild(addBtn);
