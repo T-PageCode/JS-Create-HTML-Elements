@@ -1,3 +1,4 @@
 {
-    "error": "404 Not Found"
+    "error": "404 Not Found",
+    "info": "资源未找到,请检查后再试。"
 }
